@@ -1,0 +1,82 @@
+body{
+    margin: 0% 0%;
+    background-color: black ;
+    font-family: 'Raleway', sans-serif;
+}
+/* HEADER*/
+
+
+header{
+    color: white;
+    text-align: center;
+}
+
+.bannerigu img{
+    width: 80%;
+}
+
+/*data*/
+
+.data{
+    color: white;
+    width: 70%;
+    margin: auto;
+    padding: 3% 1%; 
+}
+
+.imgdata{
+    width: 49%;
+    display: inline-block; 
+    text-align: center;
+}  
+.imgdata img{
+width: 60%;
+}
+
+
+/*CARACTERISTICAS*/
+
+.caracteristicas{
+    background-color: #1E1A13;
+    text-align: center;
+    color: white;
+}
+.caracteristicas h2{
+
+    padding-top: 30px;
+    font-size: xx-large;
+}
+
+.caracteristica{
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    padding: 1.5px;
+}
+
+/* galeria*/
+
+.gale{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;   
+}
+.gale img{
+    width:80%;
+    height: 350px;
+}
+
+
+/* footer */
+footer{
+    background-color: #1E1A13;
+    color: white;
+    text-align: center;
+    height: 90px; ;
+}
+
+.testo {
+    padding-top: 20px;
+}
